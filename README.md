@@ -10,13 +10,13 @@ This interactive performance engine transforms messy operational data into a str
 
  # 🛠️ Key Technical Features & Automation
 
-   **Dynamic Weekly Time-Series Control:** Integrated native Form Controls (Scroll-bar) to allow users to instantly swap through weekly datasets (e.g., viewing `Week #12` metrics) without duplicating worksheets or manually filtering pivot data.
-  **Agent KPI Scorecard:** Built a structured roster tracking critical employee metrics (Total Calls, Average Speed of Answer, Call Resolution %).
-    **Trend Analysis:** Embedded micro-visualizations (**Sparklines**) to showcase continuous weekly resolution trajectories at a glance.
+*   **Dynamic Weekly Time-Series Control:** Integrated native Form Controls (Scroll-bar) to allow users to instantly swap through weekly datasets (e.g., viewing `Week #12` metrics) without duplicating worksheets or manually filtering pivot data.
+ * **Agent KPI Scorecard:** Built a structured roster tracking critical employee metrics (Total Calls, Average Speed of Answer, Call Resolution %).
+ *   **Trend Analysis:** Embedded micro-visualizations (**Sparklines**) to showcase continuous weekly resolution trajectories at a glance.
     *   *Conditional Logic Alerts:* Programmed data-driven indicators (color-coded dots) that dynamically flag agents dropping below baseline expectations.
-  **Automated SLA Threshold Alerts:** Engineered a *Call Abandon Rate by Department* column chart with a strict **20% target threshold line**. The system automatically triggers a visual red alert flag when a department (e.g., Television at `21.3%`) breaches safety limits.
-  **Customer Sentiment Tracking (CSAT):** Designed a clean gauge-style visual and a granular horizontal bar chart tracking individual *Satisfaction Scores by Agent* against benchmark goals to quickly spot coaching opportunities.
-  **SLA Compliance Log:** Automated critical operational roll-ups, isolating high-risk records such as the count of calls answered past the 180-second mark or low-sentiment scores (CSAT less than or equal to 3).
+*  **Automated SLA Threshold Alerts:** Engineered a *Call Abandon Rate by Department* column chart with a strict **20% target threshold line**. The system automatically triggers a visual red alert flag when a department (e.g., Television at `21.3%`) breaches safety limits.
+*  **Customer Sentiment Tracking (CSAT):** Designed a clean gauge-style visual and a granular horizontal bar chart tracking individual *Satisfaction Scores by Agent* against benchmark goals to quickly spot coaching opportunities.
+*  **SLA Compliance Log:** Automated critical operational roll-ups, isolating high-risk records such as the count of calls answered past the 180-second mark or low-sentiment scores (CSAT less than or equal to 3).
 
 ---
 

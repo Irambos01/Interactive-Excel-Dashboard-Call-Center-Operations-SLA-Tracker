@@ -34,5 +34,6 @@ Below is a snapshot of the final interactive interface built from raw log files:
   **Dynamic Advanced Formulas:** Leveraged robust formulas including 'SUMIF', 'SUMIFS',`INDEX`, `MATCH`, `OFFSET`, and nested `IF` statements to link form controls to data tables dynamically.
   **Pivot Tables & Data Modeling:** Utilized Pivot Tables to aggregate and slice thousands of raw call logs into clean, structured backend data summaries that feed the front-end visualizations.
   **Advanced Conditional Formatting:** Programmed multi-tier, rule-based visual alerts (including color-coded status indicators and data-driven cell highlighting) to isolate underperforming agents and instantly flag SLA breaches.
+  **Advanced Conditional Formatting:** Programmed multi-tier, rule-based visual alerts (including color-coded status indicators and data-driven cell highlighting) to isolate underperforming agents and instantly flag SLA breaches.
   **Interactive Form Controls:** Integrated native developer tools like the Scroll-bar Control to build a seamless, single-page interactive user interface that swaps datasets dynamically without user filtering.
   **Strategic Data Visualization:** Constructed custom KPI scorecards, inline trend lines (Sparklines), target-line column charts, and gauge representations explicitly optimized for immediate executive scanning and decision-making.

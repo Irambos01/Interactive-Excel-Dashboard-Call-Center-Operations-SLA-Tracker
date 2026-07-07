@@ -29,7 +29,7 @@ Below is a snapshot of the final interactive interface built from raw log files:
 
 ---
 
- ⚙️ Core Excel Techniques Implemented
+ # ⚙️ Core Excel Techniques Implemented
 
   **Dynamic Advanced Formulas:** Leveraged robust formulas including 'SUMIF', 'SUMIFS',`INDEX`, `MATCH`, `OFFSET`, and nested `IF` statements to link form controls to data tables dynamically.
   **Pivot Tables & Data Modeling:** Utilized Pivot Tables to aggregate and slice thousands of raw call logs into clean, structured backend data summaries that feed the front-end visualizations.

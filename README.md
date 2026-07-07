@@ -1,0 +1,2 @@
+# Interactive-Excel-Dashboard-Call-Center-Operations-SLA-Tracker
+Engineered a fully automated performance engine in Microsoft Excel that transforms raw, unorganized call logs into real-time operational insights. Features interactive scroll-bar weekly views, an automated KPI scorecard with sparklines, and dynamic risk alerts to track customer satisfaction and flag service-level agreement (SLA) bottlenecks.
